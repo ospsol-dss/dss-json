@@ -1,7 +1,11 @@
 {
-"result": "SUCCESS",
-"data": {
-"parent_id": "parentidxxxx",
-"lid": "lidxxx"
-}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
