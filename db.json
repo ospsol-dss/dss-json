@@ -5,7 +5,7 @@
              "parent_id": "parentidxxxx",
              "lid": "lidxxx"}
   },
-  "faild": {
+  "failed": {
     "result": "FAILED",
     "data": {
             "error_code": 123456,
