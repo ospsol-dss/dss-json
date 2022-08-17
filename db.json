@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "success": [
     {
-      "id": 1,
-      "title": "hello"
+      "result": "SUCCESS",
+      "data": {
+      "parent_id": "parentidxxxx",
+      "lid": "lidxxx"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "faild": {
+    "result": "FAILED",
+    "data": {
+    "error_code": 123456,
+    "error_message": "error 123."
   }
 }
