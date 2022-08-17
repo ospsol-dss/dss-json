@@ -1,12 +1,10 @@
 {
-  "success": [
-    {
+  "success": {
       "result": "SUCCESS",
       "data": {
       "parent_id": "parentidxxxx",
       "lid": "lidxxx"
-    }
-  ],
+    },
   "faild": {
     "result": "FAILED",
     "data": {
