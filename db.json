@@ -1,33 +1,35 @@
 {
-  "parent_id": "AAAA-20220824",
-  "lid": "1161_20220824085004.3726_e5a5",
-  "status": "processed",
-  "items": {
-    "date": "2020-05-11",
-    "due_date": "2020-07-15",
-    "amount": "245212",
-    "amount_tax_excluded": "222920",
-    "tax": "22292",
-    "purchase_amount": "245212",
-    "carryover_amount": "",
-    "transfer_fee": "",
-    "issuer": "請求元サンプル株式会社",
-    "issuer_address": "東京都千代田区有楽町2-7-1有楽町イトシア12階",
-    "issuer_tel": [
-      "0301234567"
-    ],
-    "recipient": "請求先サンプル株式会社",
-    "bank_name": [
-      "三井住友銀行東日本支店"
-    ],
-    "bank_account_number": [
-      "1234567"
-    ],
-    "bank_account_type": [
-      "普通"
-    ],
-    "bank_account_name": [
-      "請求元サンプル株式会社"
-    ]
-  }
+    "data": {
+        "parent_id": "AAAA-20220824",
+        "lid": "1161_20220824085004.3726_e5a5",
+        "status": "processed",
+        "items": {
+            "date": "2020-05-11",
+            "due_date": "2020-07-15",
+            "amount": "245212",
+            "amount_tax_excluded": "222920",
+            "tax": "22292",
+            "purchase_amount": "245212",
+            "carryover_amount": "",
+            "transfer_fee": "",
+            "issuer": "請求元サンプル株式会社",
+            "issuer_address": "東京都千代田区有楽町2-7-1有楽町イトシア12階",
+            "issuer_tel": [
+                "0301234567"
+            ],
+            "recipient": "請求先サンプル株式会社",
+            "bank_name": [
+                "三井住友銀行東日本支店"
+            ],
+            "bank_account_number": [
+                "1234567"
+            ],
+            "bank_account_type": [
+                "普通"
+            ],
+            "bank_account_name": [
+                "請求元サンプル株式会社"
+            ]
+        }
+    }
 }
