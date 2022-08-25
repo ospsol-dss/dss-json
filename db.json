@@ -1,1 +1,36 @@
-{"result":"SUCCESS","data":{"parent_id":"AAAA-20220824","lid":"1161_20220824085004.3726_e5a5","status":"processed","items":{"date":"2020-05-11","due_date":"2020-07-15","amount":"245212","amount_tax_excluded":"222920","tax":"22292","purchase_amount":"245212","carryover_amount":"","transfer_fee":"","issuer":"\u8acb\u6c42\u5143\u30b5\u30f3\u30d7\u30eb\u682a\u5f0f\u4f1a\u793e","issuer_address":"\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u6709\u697d\u753a2-7-1\u6709\u697d\u753a\u30a4\u30c8\u30b7\u30a212\u968e","issuer_tel":["0301234567"],"recipient":"\u8acb\u6c42\u5148\u30b5\u30f3\u30d7\u30eb\u682a\u5f0f\u4f1a\u793e","bank_name":["\u4e09\u4e95\u4f4f\u53cb\u9280\u884c\u6771\u65e5\u672c\u652f\u5e97"],"bank_account_number":["1234567"],"bank_account_type":["\u666e\u901a"],"bank_account_name":["\u8acb\u6c42\u5143\u30b5\u30f3\u30d7\u30eb\u682a\u5f0f\u4f1a\u793e"],"invoice_number":":20200511-2","options":{"confidences":{"date":0.999,"due_date":0.999,"amount":0.999,"amount_tax_excluded":0.14,"tax":0.996,"purchase_amount":0.99,"carryover_amount":0,"transfer_fee":0,"issuer":0,"issuer_address":0.999,"issuer_tel":[0.999],"recipient":0,"bank_name":[0.999],"bank_account_number":[0.999],"bank_account_type":[0.999],"bank_account_name":[0.999],"invoice_number":0.999},"positions":{"date":{"left_top":{"x":1275,"y":146},"right_top":{"x":1508,"y":146},"left_bottom":{"x":1275,"y":179},"right_bottom":{"x":1508,"y":179}},"due_date":{"left_top":{"x":310,"y":682},"right_top":{"x":568,"y":682},"left_bottom":{"x":310,"y":716},"right_bottom":{"x":568,"y":716}},"amount":{"left_top":{"x":620,"y":596},"right_top":{"x":759,"y":596},"left_bottom":{"x":620,"y":636},"right_bottom":{"x":759,"y":636}},"amount_tax_excluded":{"left_top":{"x":1363,"y":1403},"right_top":{"x":1473,"y":1403},"left_bottom":{"x":1363,"y":1430},"right_bottom":{"x":1473,"y":1430}},"tax":{"left_top":{"x":1378,"y":1470},"right_top":{"x":1479,"y":1470},"left_bottom":{"x":1378,"y":1505},"right_bottom":{"x":1479,"y":1505}},"purchase_amount":{"left_top":{"x":1354,"y":1537},"right_top":{"x":1479,"y":1537},"left_bottom":{"x":1354,"y":1572},"right_bottom":{"x":1479,"y":1572}},"carryover_amount":null,"transfer_fee":null,"issuer":{"left_top":{"x":888,"y":443},"right_top":{"x":1249,"y":443},"left_bottom":{"x":888,"y":479},"right_bottom":{"x":1249,"y":479}},"issuer_address":{"left_top":{"x":888,"y":621},"right_top":{"x":1235,"y":621},"left_bottom":{"x":888,"y":687},"right_bottom":{"x":1235,"y":687}},"issuer_tel":[{"left_top":{"x":947,"y":714},"right_top":{"x":1107,"y":714},"left_bottom":{"x":947,"y":743},"right_bottom":{"x":1107,"y":743}}],"recipient":{"left_top":{"x":133,"y":367},"right_top":{"x":612,"y":367},"left_bottom":{"x":133,"y":412},"right_bottom":{"x":612,"y":412}},"bank_name":[{"left_top":{"x":170,"y":1708},"right_top":{"x":361,"y":1708},"left_bottom":{"x":170,"y":1784},"right_bottom":{"x":361,"y":1784}}],"bank_account_number":[{"left_top":{"x":257,"y":1792},"right_top":{"x":383,"y":1792},"left_bottom":{"x":257,"y":1823},"right_bottom":{"x":383,"y":1823}}],"bank_account_type":[{"left_top":{"x":174,"y":1790},"right_top":{"x":244,"y":1790},"left_bottom":{"x":174,"y":1825},"right_bottom":{"x":244,"y":1825}}],"bank_account_name":[{"left_top":{"x":163,"y":1830},"right_top":{"x":506,"y":1830},"left_bottom":{"x":163,"y":1866},"right_bottom":{"x":506,"y":1866}}],"invoice_number":{"left_top":{"x":1351,"y":185},"right_top":{"x":1508,"y":185},"left_bottom":{"x":1351,"y":214},"right_bottom":{"x":1508,"y":214}}}}}}}
+{
+    "result": "SUCCESS",
+    "data": {
+        "parent_id": "AAAA-20220824",
+        "lid": "1161_20220824085004.3726_e5a5",
+        "status": "processed",
+        "items": {
+            "date": "2020-05-11",
+            "due_date": "2020-07-15",
+            "amount": "245212",
+            "amount_tax_excluded": "222920",
+            "tax": "22292",
+            "purchase_amount": "245212",
+            "carryover_amount": "",
+            "transfer_fee": "",
+            "issuer": "請求元サンプル株式会社",
+            "issuer_address": "東京都千代田区有楽町2-7-1有楽町イトシア12階",
+            "issuer_tel": [
+                "0301234567"
+            ],
+            "recipient": "請求先サンプル株式会社",
+            "bank_name": [
+                "三井住友銀行東日本支店"
+            ],
+            "bank_account_number": [
+                "1234567"
+            ],
+            "bank_account_type": [
+                "普通"
+            ],
+            "bank_account_name": [
+                "請求元サンプル株式会社"
+            ]
+        }
+    }
+}
